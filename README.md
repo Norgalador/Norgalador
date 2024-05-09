@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-![image](https://github.com/Norgalador/Norgalador/assets/91435783/f42016ea-ae7e-4b45-bb94-b8c1f03245da)
+[image](https://github.com/Norgalador/Norgalador/assets/91435783/f42016ea-ae7e-4b45-bb94-b8c1f03245da)
 
 <!--
 **Norgalador/Norgalador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
